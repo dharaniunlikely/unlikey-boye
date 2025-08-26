@@ -54,7 +54,7 @@ button:hover {
 
 /* Profile Page Styling */
 .profile-body {
-  background: linear-gradient(to right, #fafd21, #ee312b);
+  background: linear-gradient(to right, #f1f1ea, #ee312b);
   color: white;
   text-align: center;
   padding: 60px 20px;
